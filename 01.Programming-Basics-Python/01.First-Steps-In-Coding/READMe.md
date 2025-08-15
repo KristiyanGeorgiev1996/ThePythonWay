@@ -1,4 +1,4 @@
-# First steps in coding – Programming Basics with C# 🧑‍💻
+# First steps in coding – Programming Basics with Python 🧑‍💻
 
 This folder contains tasks from the **First steps in coding** section of the Programming Basics with C# course at SoftUni. The original tasks were part of the C# curriculum, but here they are reimplemented in Python as a way to practice and master the language. Below are the tasks with brief descriptions.
 
