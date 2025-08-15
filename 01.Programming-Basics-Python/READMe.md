@@ -1,4 +1,4 @@
-# Programming Basics with JavaScript
+# Programming Basics with Python
 
 This repository contains my solutions to tasks from the **Programming Basics with C#** course at SoftUni, which I am re-solving in Python to practice the language and programming concepts.
 
