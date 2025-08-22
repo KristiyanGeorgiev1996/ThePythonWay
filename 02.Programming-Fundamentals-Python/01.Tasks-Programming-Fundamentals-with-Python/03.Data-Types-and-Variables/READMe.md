@@ -1,6 +1,6 @@
 # 🧑‍💻 Data Types and Variables – Programming Fundamentals with Python
 
-This repository contains tasks from the **Data Types and Variables** section of the _Programming Fundamentals with C#_ course at SoftUni. The original tasks were part of the C# curriculum, but here they are reimplemented in JavaScript as a way to practice and master the language.
+This repository contains tasks from the **Data Types and Variables** section of the _Programming Fundamentals with C#_ course at SoftUni. The original tasks were part of the C# curriculum, but here they are reimplemented in Python as a way to practice and master the language.
 
 ## 🔧 Tasks Overview
 
