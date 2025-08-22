@@ -1,6 +1,6 @@
 # Regular Expressions – Programming Fundamentals with Python 🧑💻
 
-This folder contains tasks from the **Regular Expressions** section of the _Programming Fundamentals with C#_ course at SoftUni. The original tasks were part of the C# curriculum, but here they are reimplemented in JavaScript as a way to practice and master the language. Below are the tasks with brief descriptions.
+This folder contains tasks from the **Regular Expressions** section of the _Programming Fundamentals with C#_ course at SoftUni. The original tasks were part of the C# curriculum, but here they are reimplemented in Python as a way to practice and master the language. Below are the tasks with brief descriptions.
 
 ## 🔧 Tasks Overview:
 
