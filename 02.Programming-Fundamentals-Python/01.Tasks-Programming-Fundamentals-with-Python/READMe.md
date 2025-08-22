@@ -1,6 +1,6 @@
 # Programming Fundamentals with Python - Solved Tasks
 
-This file contains a collection of tasks that have been solved as part of the **Programming Fundamentals with C#** course. The original tasks were part of the C# curriculum, but here they are reimplemented in JavaScript as a way to practice and master the language. The tasks have contributed to strengthening the understanding of fundamental programming concepts and C# syntax.
+This file contains a collection of tasks that have been solved as part of the **Programming Fundamentals with C#** course. The original tasks were part of the C# curriculum, but here they are reimplemented in Python as a way to practice and master the language. The tasks have contributed to strengthening the understanding of fundamental programming concepts and C# syntax.
 
 ## Technologies and Topics Covered:
 
