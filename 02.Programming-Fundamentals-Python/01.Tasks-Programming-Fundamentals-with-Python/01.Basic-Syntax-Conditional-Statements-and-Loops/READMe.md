@@ -160,3 +160,4 @@ Start and end dates in format: `day.month.year` (e.g. `01.05.2015` to `15.05.201
 ---
 
 **Note:** The tasks are adapted from the SoftUni course and have been reformulated to present clearer and more illustrative descriptions of each exercise.
+
