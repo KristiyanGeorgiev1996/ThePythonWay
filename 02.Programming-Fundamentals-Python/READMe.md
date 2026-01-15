@@ -11,4 +11,3 @@ Students will get an overview of web development fundamentals and key tools and 
 - Managing linear data structures  
 - Understanding connections between key IT concepts  
 - Breaking down problems into executable steps  
-
