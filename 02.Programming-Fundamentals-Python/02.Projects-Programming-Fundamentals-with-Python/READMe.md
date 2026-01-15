@@ -60,3 +60,4 @@ These projects serve as practice tools for reinforcing foundational programming 
 - Structuring logic into separate methods  
 - Handling user input and edge cases gracefully  
 - Gaining confidence in solving basic programming problems with Python  
+
