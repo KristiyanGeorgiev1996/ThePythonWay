@@ -1,13 +1,15 @@
 # Programming Basics with Python
 
-This module presents the fundamentals of programming using Python. The focus is on building core programming skills through structured problem-solving and practical exercises.
+This module covers the fundamental concepts of programming using Python, focusing on building a strong foundation through structured problem-solving and practical exercises.
 
 ---
 
 ## 📚 Overview
 
-This section applies fundamental programming concepts by solving a variety of algorithmic problems.
-All solutions are implemented in Python, with an emphasis on clarity, structure, and logical thinking.
+The content in this section demonstrates core programming principles applied through a wide range of algorithmic problems.
+All solutions are implemented in Python with an emphasis on clarity, structure, and logical reasoning.
+
+In addition to solutions, each topic includes dedicated **lecture materials** that explain the underlying concepts in detail.
 
 ---
 
@@ -16,48 +18,65 @@ All solutions are implemented in Python, with an emphasis on clarity, structure,
 * Variables and data types
 * Console input and output
 * Arithmetic and logical operations
-* Conditional statements (if, if-else)
-* Loops (for, while)
-* Nested conditions and nested loops
+* Conditional statements
+* Nested conditions
+* Loops (`for`, `while`)
+* Nested loops
 
 ---
 
 ## 💡 Skills Developed
 
 * Writing clean and structured Python code
-* Applying conditional logic for decision-making
-* Using loops to solve repetitive and pattern-based problems
-* Breaking down problems into smaller, manageable parts
-* Developing algorithmic and analytical thinking
-* Handling input/output and edge cases effectively
+* Applying logical and conditional reasoning
+* Solving algorithmic problems
+* Working with loops and repetitive logic
+* Breaking down complex problems into manageable steps
+* Handling input/output and edge cases
 
 ---
 
 ## 🗂 Project Structure
 
-The module is organized into topic-based folders.
-Each topic includes:
+Each topic is organized into its own folder and includes:
 
-* Practice problems
-* Exercise tasks with increased complexity
-* Individual Python solutions (`.py` files)
-* README files with clearly described and rephrased problem statements
+* 🧩 **Problem solutions** (`.py` files)
+* 📘 **Task descriptions** (rephrased for clarity)
+* 📖 **Lecture material** (`lecture.md`) explaining the concepts
 
----
+Example structure:
 
-## 🎯 Purpose
-
-The purpose of this module is to build a strong programming foundation and develop problem-solving skills that are essential for further growth in software development.
+```
+01.First-Steps-In-Coding/
+│
+├── README.md       # Task descriptions
+├── lecture.md      # Theory and explanations
+├── task1.py
+├── task2.py
+```
 
 ---
 
 ## 🚀 What This Module Demonstrates
 
-* Consistency in learning and practice
 * Strong understanding of programming fundamentals
-* Ability to solve structured algorithmic problems
-* Transition from theory to practical implementation
+* Consistent problem-solving practice
+* Ability to translate theory into practical solutions
+* Structured and well-organized codebase
+* Clear documentation and explanation of concepts
 
 ---
 
-> ✅ This repository demonstrates practical application of fundamental programming concepts using Python.
+## 🎯 Purpose
+
+The goal of this module is to establish a solid programming foundation and develop essential skills required for more advanced software development.
+
+---
+
+## 📌 Notes
+
+All problems are inspired by training exercises, but the solutions and documentation are written and structured independently to demonstrate understanding and practical application.
+
+---
+
+> ✅ This module represents a structured learning path and practical implementation of fundamental programming concepts using Python.
