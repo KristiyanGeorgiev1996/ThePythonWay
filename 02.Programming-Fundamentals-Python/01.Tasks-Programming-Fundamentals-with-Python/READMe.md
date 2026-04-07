@@ -6,14 +6,13 @@ It serves as a transition between basic programming knowledge and more advanced 
 
 ---
 
-## 📚 Overview
+## Overview
 
-The tasks in this section focus on applying core programming concepts in more structured and practical scenarios.
-They are designed to strengthen logical thinking and improve the ability to solve algorithmic problems efficiently.
+The tasks in this section focus on applying core programming concepts in more structured and practical scenarios. They are designed to strengthen logical thinking and improve the ability to solve algorithmic problems efficiently.
 
 ---
 
-## 🧠 Key Focus Areas
+## Key Focus Areas
 
 * Applying conditional logic in more complex scenarios
 * Working with loops and iterative processes
@@ -23,7 +22,7 @@ They are designed to strengthen logical thinking and improve the ability to solv
 
 ---
 
-## 💡 Skills Developed
+## Skills Developed
 
 * Strengthening problem-solving abilities
 * Writing more structured and readable code
@@ -33,27 +32,31 @@ They are designed to strengthen logical thinking and improve the ability to solv
 
 ---
 
-## 🗂 Structure
+## Structure
 
-Each task includes:
+The content is organized into lecture and exercise folders, covering both concept introduction and practical application.
+
+Each topic may include:
 
 * A Python solution (`.py` file)
-* A clearly rewritten problem description (`README.md`)
+* A rewritten problem description (`README.md`)
+* A lecture file (`lecture.md`) with concept explanations and examples
 
 The tasks are organized to gradually increase in complexity.
 
 ---
 
-## 🚀 What This Section Demonstrates
+## What This Section Demonstrates
 
 * Transition from basic to intermediate-level problem solving
 * Ability to combine multiple programming concepts
 * Consistency in practice and solution development
 * Clear and structured approach to coding tasks
+* Additional focus on understanding the theory behind each topic
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 The purpose of this section is to bridge the gap between introductory programming and more advanced topics by reinforcing core concepts through practice.
 
