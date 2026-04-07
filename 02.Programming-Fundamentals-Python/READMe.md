@@ -10,6 +10,7 @@
 ## 📑 Table of Contents
 - [Overview](#-overview)
 - [Content](#-content)
+- [Covered Topics](#-covered-topics)
 - [Purpose](#-purpose)
 - [Technologies Used](#-technologies-used)
 - [Project Structure](#-project-structure)
@@ -21,52 +22,71 @@
 ## 📖 Overview
 This directory contains solutions and projects developed as part of the *Programming Fundamentals* course, implemented entirely in Python.
 
-The focus is on building strong problem-solving skills, understanding core programming concepts in depth, and applying them in both algorithmic tasks and practical projects.
+The content focuses on building a strong foundation in problem solving, data structures, and core programming concepts, progressing from basic syntax to more advanced topics such as text processing and regular expressions.
 
 ---
 
 ## 📂 Content
 
 ### 🧩 Tasks – Programming Fundamentals
-A collection of problem-solving exercises covering key topics such as:
-- Data types and variables
-- Lists and arrays
-- Functions
-- Basic algorithms
-- Text processing
+A structured collection of exercises covering progressively more complex topics.
 
-Each task is implemented with a focus on clarity, correctness, and efficiency.
+Each topic includes:
+- 📄 Theoretical summary (`lecture.md`)
+- 🧪 Practice problems
+- ✅ Python solutions
 
 ---
 
 ### 🚀 Projects – Programming Fundamentals
-Practical projects that combine multiple concepts, including:
-- Structured program design
-- Working with user input and output
-- Logical problem decomposition
-- Real-world scenario simulations
+A set of practical mini-projects designed to apply multiple concepts in realistic scenarios:
 
-These projects demonstrate the ability to apply theoretical knowledge in more complex and realistic situations.
+- 🎮 Rock-Paper-Scissors  
+- 🔢 Guess a Number  
+- 📝 Random Sentence Generator  
+
+These projects demonstrate the ability to combine logic, structure, and user interaction in complete programs.
+
+---
+
+## 🧠 Covered Topics
+
+The repository follows a progressive learning path:
+
+- Basic Syntax, Conditional Statements, and Loops  
+- Data Types and Variables  
+- Arrays (Lists)  
+- Methods (Functions)  
+- Lists (Advanced usage)  
+- Objects and Classes  
+- Associative Arrays (Dictionaries)  
+- Text Processing  
+- Regular Expressions  
+
+Each topic includes both:
+- ✔️ Practice exercises  
+- ✔️ Extended problem sets  
 
 ---
 
 ## 🎯 Purpose
-- Deepen understanding of core programming concepts  
-- Improve algorithmic and logical thinking  
-- Transition from basic to more advanced problem solving  
-- Apply knowledge in real-world-like projects  
-- Build a structured and professional coding style  
+- Strengthen core programming fundamentals  
+- Develop strong algorithmic thinking  
+- Improve problem-solving skills through structured exercises  
+- Apply knowledge in practical mini-projects  
+- Build clean, readable, and maintainable code  
 
 ---
 
 ## 🛠️ Technologies Used
 - **Python 3**
-- Core programming concepts:
-  - Data structures (lists, strings)
+- Core concepts:
+  - Variables and data types
+  - Lists and dictionaries
   - Functions
-  - Conditional logic
-  - Loops
-- Python Standard Library
+  - Object-oriented basics
+  - String manipulation
+  - Regular expressions
 
 ---
 
@@ -75,7 +95,20 @@ These projects demonstrate the ability to apply theoretical knowledge in more co
 02.Programming-Fundamentals-Python/
 │
 ├── 01.Tasks-Programming-Fundamentals-with-Python/
+│ ├── Basic Syntax, Conditionals & Loops
+│ ├── Data Types and Variables
+│ ├── Arrays
+│ ├── Methods
+│ ├── Lists
+│ ├── Objects and Classes
+│ ├── Associative Arrays
+│ ├── Text Processing
+│ └── Regular Expressions
+│
 ├── 02.Projects-Programming-Fundamentals-with-Python/
+│ ├── Rock-Paper-Scissors
+│ ├── Guess a Number
+│ └── Random Sentence Generator
 │
 └── README.md
 ```
@@ -83,17 +116,18 @@ These projects demonstrate the ability to apply theoretical knowledge in more co
 ---
 
 ## 🚀 Highlights
-- Strong focus on problem-solving  
-- Combination of exercises and real-world projects  
-- Clean and structured code organization  
-- Progressive learning approach  
+- Progressive learning structure from basics to advanced topics  
+- Combination of exercises and real-world mini-projects  
+- Strong focus on problem-solving and clean code  
+- Practical use of Python data structures and text processing  
+- Introduction to object-oriented programming concepts  
 
 ---
 
 ## 📌 Notes
-All implementations are written with emphasis on:
+All implementations are developed with emphasis on:
 
-- Readability and maintainability  
-- Consistent coding style  
-- Clear logical flow  
+- Clean and readable code  
+- Logical consistency and clarity  
+- Maintainable structure  
 - Following Python best practices  
