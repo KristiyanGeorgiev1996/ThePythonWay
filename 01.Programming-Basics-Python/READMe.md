@@ -1,38 +1,63 @@
 # Programming Basics with Python
 
-This repository contains my solutions to tasks from the **Programming Basics with C#** course at SoftUni, which I am re-solving in Python to practice the language and programming concepts.
-
-The course is designed for beginners and provides a solid introduction to programming concepts using the C# language. It builds a foundation for further studies in software development and prepares students for the entry exam to the Software Engineering program.
-
-## Topics Covered
-
-- Variables and data types
-- Console input and output
-- Basic operators and expressions
-- Conditional statements (if, if-else)
-- Loops (for, while)
-- Nested conditions and nested loops
-- Basic arithmetic and logical operations
-
-## Skills Acquired
-
-- Reading input from and printing output to the console
-- Using loops to automate repetitive tasks
-- Applying conditional logic for decision-making
-- Creating nested condition structures
-- Performing calculations and processing data
-- Writing nested loops for more complex logic
-
-## Notes
-
-All tasks have been rewritten and solved entirely in Python.
-
-Each folder contains:
-- A solution file (`.py`)
-- Example input/output where applicable
-- A README file with task descriptions, rephrased and clearly summarized.
+This module represents the foundation of my programming journey using Python. It focuses on building core programming skills through structured problem-solving and practical exercises.
 
 ---
 
-> ✅ This repository is a portfolio of my progress in programming with Python, based on tasks from the Programming Basics with C# course.
+## 📚 Overview
 
+In this section, I apply fundamental programming concepts by solving a wide range of algorithmic problems.
+All solutions are implemented in Python, with a focus on clarity, structure, and logical thinking.
+
+---
+
+## 🧠 Core Concepts
+
+* Variables and data types
+* Console input and output
+* Arithmetic and logical operations
+* Conditional statements (if, if-else)
+* Loops (for, while)
+* Nested conditions and nested loops
+
+---
+
+## 💡 Skills Developed
+
+* Writing clean and structured Python code
+* Applying conditional logic for decision-making
+* Using loops to solve repetitive and pattern-based problems
+* Breaking down problems into smaller, manageable steps
+* Developing algorithmic and analytical thinking
+* Handling input/output and edge cases effectively
+
+---
+
+## 🗂 Project Structure
+
+The module is organized into separate folders by topic.
+Each topic includes:
+
+* Practice problems
+* Exercise tasks with increased complexity
+* Individual Python solutions (`.py` files)
+* README files with clearly described and rephrased problem statements
+
+---
+
+## 🎯 Purpose
+
+The goal of this module is to build a strong programming foundation and develop problem-solving skills that are essential for more advanced software development.
+
+---
+
+## 🚀 What This Demonstrates
+
+* Consistency in learning and practice
+* Strong understanding of programming fundamentals
+* Ability to solve structured algorithmic problems
+* Transition from theory to practical implementation
+
+---
+
+> ✅ This repository reflects my progress in Python and my ability to apply fundamental programming concepts in practice.
