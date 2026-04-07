@@ -1,82 +1,98 @@
-# Programming Basics with Python
+# 📘 Programming Basics with Python
 
-This module covers the fundamental concepts of programming using Python, focusing on building a strong foundation through structured problem-solving and practical exercises.
-
----
-
-## 📚 Overview
-
-The content in this section demonstrates core programming principles applied through a wide range of algorithmic problems.
-All solutions are implemented in Python with an emphasis on clarity, structure, and logical reasoning.
-
-In addition to solutions, each topic includes dedicated **lecture materials** that explain the underlying concepts in detail.
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Level](https://img.shields.io/badge/Level-Beginner-green)
+![Focus](https://img.shields.io/badge/Focus-Algorithms%20%26%20Logic-orange)
+![Course](https://img.shields.io/badge/Source-Programming%20Basics-lightgrey)
 
 ---
 
-## 🧠 Core Concepts
-
-* Variables and data types
-* Console input and output
-* Arithmetic and logical operations
-* Conditional statements
-* Nested conditions
-* Loops (`for`, `while`)
-* Nested loops
+## 📑 Table of Contents
+- [Overview](#-overview)
+- [Covered Topics](#-covered-topics)
+- [Purpose](#-purpose)
+- [Technologies Used](#-technologies-used)
+- [Project Structure](#-project-structure)
+- [Notes](#-notes)
 
 ---
 
-## 💡 Skills Developed
+## 📖 Overview
+This directory contains solutions to programming tasks based on the *Programming Basics* course, originally developed in C#, but fully adapted and implemented in Python.
 
-* Writing clean and structured Python code
-* Applying logical and conditional reasoning
-* Solving algorithmic problems
-* Working with loops and repetitive logic
-* Breaking down complex problems into manageable steps
-* Handling input/output and edge cases
+The project demonstrates the ability to transfer core programming concepts across languages while maintaining clean logic, structure, and readability.
 
 ---
 
-## 🗂 Project Structure
+## 🧠 Covered Topics
+The content follows a structured learning path:
 
-Each topic is organized into its own folder and includes:
+- **First Steps in Coding**
+- **Conditional Statements**
+- **More Complex Conditional Statements**
+- **For Loops**
+- **While Loops**
+- **Nested Loops**
 
-* 🧩 **Problem solutions** (`.py` files)
-* 📘 **Task descriptions** (rephrased for clarity)
-* 📖 **Lecture material** (`lecture.md`) explaining the concepts
-
-Example structure:
-
-```
-01.First-Steps-In-Coding/
-│
-├── README.md       # Task descriptions
-├── lecture.md      # Theory and explanations
-├── task1.py
-├── task2.py
-```
-
----
-
-## 🚀 What This Module Demonstrates
-
-* Strong understanding of programming fundamentals
-* Consistent problem-solving practice
-* Ability to translate theory into practical solutions
-* Structured and well-organized codebase
-* Clear documentation and explanation of concepts
+Each module includes:
+- 📄 Theoretical summary (`lecture.md`)
+- 🧩 Practical exercises (`Exercise` folders)
+- ✅ Python implementations of solutions
 
 ---
 
 ## 🎯 Purpose
+- Strengthen fundamental programming knowledge  
+- Practice language transition (C# → Python)  
+- Improve problem-solving and algorithmic thinking  
+- Build clean and well-structured code habits  
 
-The goal of this module is to establish a solid programming foundation and develop essential skills required for more advanced software development.
+---
+
+## 🛠️ Technologies Used
+- **Python 3**
+- Core programming constructs:
+  - Variables
+  - Conditional statements
+  - Loops
+- Python Standard Library
+
+---
+
+## 📂 Project Structure
+```
+01.Programming-Basics-Python/
+│
+├── 01.First-Steps-In-Coding/
+├── 02.First-Steps-In-Coding-Exercise/
+├── 03.Conditional-Statements/
+├── 04.Conditional-Statements-Exercise/
+├── 05.More-Complex-Statements/
+├── 06.More-Complex-Statements-Exercise/
+├── 07.For-Loop/
+├── 08.For-Loop-Exercise/
+├── 09.While-Loop/
+├── 10.While-Loop-Exercise/
+├── 11.Nested-Loops/
+├── 12.Nested-Loops-Exercise/
+│
+└── README.md
+```
 
 ---
 
 ## 📌 Notes
+All solutions are developed with emphasis on:
 
-All problems are inspired by training exercises, but the solutions and documentation are written and structured independently to demonstrate understanding and practical application.
+- Clean and readable code  
+- Consistent structure  
+- Best practices in Python  
+- Logical clarity and maintainability  
 
 ---
 
-> ✅ This module represents a structured learning path and practical implementation of fundamental programming concepts using Python.
+## 🚀 Highlights
+- Cross-language thinking (C# → Python)
+- Strong focus on fundamentals
+- Well-organized learning structure
+- Practical problem-solving approach
