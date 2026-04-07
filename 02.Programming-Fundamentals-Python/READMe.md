@@ -110,7 +110,7 @@ Each topic includes both:
 │ ├── Guess a Number
 │ └── Random Sentence Generator
 │
-└── README.md
+└── READMe.md
 ```
 
 ---
