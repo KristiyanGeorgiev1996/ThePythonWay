@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Focus-Problem%20Solving-success" alt="Problem Solving Badge" />
   <img src="https://img.shields.io/badge/Track-SoftUni-orange" alt="SoftUni Badge" />
   <img src="https://img.shields.io/github/license/KristiyanGeorgiev1996/ThePythonWay" alt="License Badge" />
+  <img src="https://img.shields.io/github/repo-size/KristiyanGeorgiev1996/ThePythonWay">
   <img src="https://img.shields.io/github/last-commit/KristiyanGeorgiev1996/ThePythonWay" alt="Last Commit Badge" />
 </p>
 
