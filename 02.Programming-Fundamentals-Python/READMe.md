@@ -1,14 +1,84 @@
 # Programming Fundamentals with Python
 
-This course marks the next step in SoftUni’s comprehensive software engineering training program. It introduces students to essential programming concepts that form the groundwork for mastering more advanced professional topics.
+This module builds upon the foundational programming concepts and introduces more advanced techniques used in real-world problem solving.
 
-Building on the skills acquired in the Programming Basics course, learners will begin working with more complex programming structures such as arrays, lists, objects, and classes. The course also introduces important technologies and concepts widely used in software development, including basic web technologies like HTML and CSS, HTTP protocol, and bitwise operations.
+It focuses on developing algorithmic thinking, working with data structures, and writing more structured and efficient code.
 
-Students will get an overview of web development fundamentals and key tools and technologies, preparing them for the professional modules ahead and equipping them with the foundational knowledge necessary for a successful career in software development.
+---
 
-## Skills Acquired:
-- Utilizing core programming language features  
-- Managing linear data structures  
-- Understanding connections between key IT concepts  
-- Breaking down problems into executable steps  
+## 📚 Overview
 
+In this section, core programming skills are extended through more complex problems and practical exercises.
+The focus shifts from basic syntax to **problem-solving strategies, data manipulation, and reusable logic**.
+
+Each topic includes both **solutions and structured explanations**, reinforcing understanding through practice.
+
+---
+
+## 🧠 Core Concepts
+
+* Advanced conditional logic
+* Loops and nested loops (deeper applications)
+* Lists and list manipulation
+* Functions and code reuse
+* Dictionaries and key-value data structures
+* Text processing and string manipulation
+
+---
+
+## 💡 Skills Developed
+
+* Writing modular and reusable code
+* Working with collections (lists, dictionaries)
+* Solving more complex algorithmic problems
+* Processing and transforming data
+* Structuring programs more efficiently
+* Improving code readability and organization
+
+---
+
+## 🗂 Project Structure
+
+The module is divided into multiple sections, each covering a specific topic.
+Each section includes:
+
+* 🧩 Problem solutions (`.py` files)
+* 📘 Rewritten task descriptions
+* 📖 Lecture materials (`lecture.md`) explaining key concepts
+
+Example structure:
+
+```text
+01.Basic-Syntax/
+│
+├── README.md       # Task descriptions
+├── lecture.md      # Theory and explanations
+├── task1.py
+├── task2.py
+```
+
+---
+
+## 🚀 What This Module Demonstrates
+
+* Transition from basic to intermediate programming level
+* Ability to work with structured data
+* Strong problem-solving and logical thinking
+* Understanding of reusable and modular code
+* Clean and well-organized project structure
+
+---
+
+## 🎯 Purpose
+
+The purpose of this module is to strengthen programming fundamentals and prepare for more advanced topics such as object-oriented programming, data structures, and real-world application development.
+
+---
+
+## 📌 Notes
+
+All tasks are inspired by training exercises, but the solutions and documentation are independently written and structured to demonstrate understanding and practical application.
+
+---
+
+> ✅ This module represents the transition from beginner-level programming to more structured and problem-oriented development using Python.
