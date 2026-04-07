@@ -1,65 +1,91 @@
-# Programming Fundamentals – Practice Tasks
+# 🧩 Programming Fundamentals – Tasks (Python)
 
-This section contains a collection of practice problems designed to reinforce and extend fundamental programming concepts using Python.
-
-It serves as a transition between basic programming knowledge and more advanced problem-solving techniques.
-
----
-
-## Overview
-
-The tasks in this section focus on applying core programming concepts in more structured and practical scenarios. They are designed to strengthen logical thinking and improve the ability to solve algorithmic problems efficiently.
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Type](https://img.shields.io/badge/Type-Exercises-green)
+![Focus](https://img.shields.io/badge/Focus-Problem%20Solving-orange)
 
 ---
 
-## Key Focus Areas
+## 📖 Overview
+This directory contains a comprehensive collection of problem-solving exercises from the *Programming Fundamentals* course, implemented in Python.
 
-* Applying conditional logic in more complex scenarios
-* Working with loops and iterative processes
-* Combining multiple concepts within a single solution
-* Handling different types of input and output
-* Structuring solutions more clearly
+The tasks are structured to follow a progressive learning path, starting from basic syntax and gradually advancing to more complex topics such as object-oriented programming and text processing.
 
 ---
 
-## Skills Developed
+## 🧠 Covered Topics
 
-* Strengthening problem-solving abilities
-* Writing more structured and readable code
-* Combining logic from multiple topics
-* Handling edge cases and input variations
-* Improving algorithmic thinking
+The exercises are organized into paired modules (theory + practice):
 
----
+- **Basic Syntax, Conditional Statements, and Loops**
+- **Data Types and Variables**
+- **Arrays (Lists)**
+- **Methods (Functions)**
+- **Lists (Advanced usage)**
+- **Objects and Classes**
+- **Associative Arrays (Dictionaries)**
+- **Text Processing**
+- **Regular Expressions**
 
-## Structure
-
-The content is organized into lecture and exercise folders, covering both concept introduction and practical application.
-
-Each topic may include:
-
-* A Python solution (`.py` file)
-* A rewritten problem description (`README.md`)
-* A lecture file (`lecture.md`) with concept explanations and examples
-
-The tasks are organized to gradually increase in complexity.
+Each topic includes:
+- 📄 Conceptual overview (`lecture.md`)
+- 🧪 Exercise sets for practice
+- ✅ Solutions implemented in Python
 
 ---
 
-## What This Section Demonstrates
+## 📂 Structure
+Each topic is divided into two parts:
 
-* Transition from basic to intermediate-level problem solving
-* Ability to combine multiple programming concepts
-* Consistency in practice and solution development
-* Clear and structured approach to coding tasks
-* Additional focus on understanding the theory behind each topic
+- **Core Topic** – theoretical explanation and basic examples  
+- **Exercise Section** – practical problems for skill reinforcement  
+
+Example:
+```
+01.Basic-Syntax-Conditional-Statements-and-Loops/
+02.Exercise-Basic-Syntax-Conditional-Statements-and-Loops/
+```
+
+This pattern is followed consistently across all topics.
 
 ---
 
-## Purpose
-
-The purpose of this section is to bridge the gap between introductory programming and more advanced topics by reinforcing core concepts through practice.
+## 🎯 Purpose
+- Build a strong foundation in programming fundamentals  
+- Develop algorithmic and logical thinking  
+- Practice solving structured problems  
+- Improve code readability and organization  
+- Prepare for more advanced programming concepts  
 
 ---
 
-> ✅ This section highlights the ability to apply foundational programming knowledge in increasingly complex scenarios.
+## 🛠️ Technologies Used
+- **Python 3**
+- Core programming concepts:
+  - Variables and data types
+  - Conditional logic
+  - Loops
+  - Functions
+  - Lists and dictionaries
+  - Object-oriented basics
+  - String manipulation
+  - Regular expressions
+
+---
+
+## 🚀 Highlights
+- Progressive difficulty across topics  
+- Consistent structure (theory + exercises)  
+- Strong emphasis on problem-solving  
+- Coverage of both fundamental and intermediate concepts  
+- Clean and readable Python implementations  
+
+---
+
+## 📌 Notes
+All solutions are developed with focus on:
+
+- Clarity and simplicity  
+- Logical consistency  
+- Maintainable structure  
+- Following Python best practices  
