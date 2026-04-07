@@ -34,5 +34,5 @@ Each folder contains:
 
 ---
 
-> ✅ This repository is a portfolio of my progress in programming with JavaScript, based on tasks from the Programming Basics with C# course.
+> ✅ This repository is a portfolio of my progress in programming with Python, based on tasks from the Programming Basics with C# course.
 
