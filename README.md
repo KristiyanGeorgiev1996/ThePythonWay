@@ -229,4 +229,3 @@ For more information, check the [LICENSE](./LICENSE) file.
 **Kristiyan Georgiev**
 
 If this repository is useful or inspiring, consider giving it a star.
-
